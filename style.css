@@ -243,15 +243,6 @@ h3 {
  color: #fb923c;
 }
 
-.site-footer {
-    text-align: center;
-    margin-top: 60px;
-    padding: 30px 10px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #586069; 
-    border-top: 1px solid #e1e4e8;
-}
-
 .site-footer p {
     font-size: 14px;
     line-height: 1.5;
@@ -265,7 +256,7 @@ h3 {
 }
 
 .github-link:hover {
-    color: #0969da; 
+    color: #fb923c; 
     text-decoration: underline;
 }
 
