@@ -242,3 +242,39 @@ strong {
 h3 {
  color: #fb923c;
 }
+
+.site-footer {
+    text-align: center;
+    margin-top: 60px;
+    padding: 30px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #586069; 
+    border-top: 1px solid #e1e4e8;
+}
+
+.site-footer p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.github-link {
+    color: #24292f;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.github-link:hover {
+    color: #0969da; 
+    text-decoration: underline;
+}
+
+.source-link {
+    color: #0366d6;
+    text-decoration: none;
+    margin-left: 8px;
+}
+
+.source-link:hover {
+    text-decoration: underline;
+}
